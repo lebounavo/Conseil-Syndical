@@ -1,0 +1,59 @@
+601110;60 Achats de matières et fournitures:601000 Eau:601110 EAU FROIDE
+601210;60 Achats de matières et fournitures:601000 Eau:601210 EAU CHAUDE
+602131;60 Achats de matières et fournitures:602000 Electricité:602131 ELECTRICITE Services généraux
+602136;60 Achats de matières et fournitures:602000 Electricité:602136 ELECTRICITE Ascenseur
+602137;60 Achats de matières et fournitures:602000 Electricité:602137 ELECTRICITE Chaufferie
+603142;60 Achats de matières et fournitures:603000 Chauffage énergie et combustibles:603142 GAZ
+605000;60 Achats de matières et fournitures:605000 Matériel:605000 MATERIEL
+606110;60 Achats de matières et fournitures:606000 Fournitures:606110 FOURNITURES D'ENTRETIEN
+606180;60 Achats de matières et fournitures:606000 Fournitures:606180 FOURNITURES Diverses
+606190;60 Achats de matières et fournitures:606000 Fournitures:606190 FOURNITURES MATERIEL ENTRETIEN
+606210;60 Achats de matières et fournitures:606000 Fournitures:606210 TELEPHONE ASCENSEURS
+606220;60 Achats de matières et fournitures:606000 Fournitures:606220 TELEPHONE GARDIEN
+606230;60 Achats de matières et fournitures:606000 Fournitures:606230 REMBOURSEMENT TELEPHONE
+611100;61 Services extérieurs:611000 Nettoyage des locaux:611100 NETTOYAGE Parties communes
+612200;61 Services extérieurs:612000 Locations immobilières:612200 LOCATIONS IMMOBILIERES
+612410;61 Services extérieurs:612000 Locations immobilières:612410 COMPTE ANCIEN SYNDIC
+613500;61 Services extérieurs:613000 Locations mobilières:613500 LOCATIONS MOBILIERES
+613521;61 Services extérieurs:613000 Locations mobilières:613521 LOCATION COMPTEURS EAU FROIDE
+614610;61 Services extérieurs:614000 Contrats de maintenance:614610 MAINTENANCE Bâtiment
+614612;61 Services extérieurs:614000 Contrats de maintenance:614612 MAINTENANCE Portail
+614615;61 Services extérieurs:614000 Contrats de maintenance:614615 MAINTENANCE VMC
+614618;61 Services extérieurs:614000 Contrats de maintenance:614618 MAINTENANCE EXTINCTEURS
+614620;61 Services extérieurs:614000 Contrats de maintenance:614620 MAINTENANCE Espaces verts
+614661;61 Services extérieurs:614000 Contrats de maintenance:614661 MAINTENANCE Normale ascenseur
+614662;61 Services extérieurs:614000 Contrats de maintenance:614662 MAINTENANCE Compléte ascenseur
+614672;61 Services extérieurs:614000 Contrats de maintenance:614672 MAINTENANCE Chaufferie P2
+614673;61 Services extérieurs:614000 Contrats de maintenance:614673 MAINTENANCE Chaufferie P3
+614680;61 Services extérieurs:614000 Contrats de maintenance:614680 MAINTENANCE Contrats divers
+615210;61 Services extérieurs:615000 Entretien et petites réparations:615210 ENTRETIEN Parties communes
+615212;61 Services extérieurs:615000 Entretien et petites réparations:615212 ENTRETIEN Portail
+615260;61 Services extérieurs:615000 Entretien et petites réparations:615260 ENTRETIEN Ascenseur
+615270;61 Services extérieurs:615000 Entretien et petites réparations:615270 ENTRETIEN Chaufferie
+615280;61 Services extérieurs:615000 Entretien et petites réparations:615280 ENTRETIEN Divers
+615310;61 Services extérieurs:615000 Entretien et petites réparations:615310 DESINFECTION Vide - ordures
+615580;61 Services extérieurs:615000 Entretien et petites réparations:615580 ENTRETIEN-REPARATION Mobilier
+616100;61 Services extérieurs:616000 Primes d'assurances:616100 ASSURANCE MULTIRISQUES
+616800;61 Services extérieurs:616000 Primes d'assurances:616800 AUTRES ASSURANCES
+621110;62 Frais d'administration et honoraires:621100 Rémunération du syndic:621110 HONORAIRES SYNDIC
+621120;62 Frais d'administration et honoraires:621100 Rémunération du syndic:621120 HONO SYNDIC HORS FORFAIT
+621310;62 Frais d'administration et honoraires:621300 Frais postaux:621310 TIMBRES
+622390;62 Frais d'administration et honoraires:621300 Frais postaux:622390 FRAIS DE TENUE DE COMPTE BANQ.
+623010;62 Frais d'administration et honoraires:623000 Rémunération de tiers intervenants:623010 HONORAIRES HUISSIERS
+623020;62 Frais d'administration et honoraires:623000 Rémunération de tiers intervenants:623020 HONORAIRES AVOCATS
+623050;62 Frais d'administration et honoraires:623000 Rémunération de tiers intervenants:623050 FRAIS DIAGNOSTICS DIVERS
+623100;62 Frais d'administration et honoraires:623000 Rémunération de tiers intervenants:623100 ANNONCES ET INSERTIONS
+633120;63 Impôts - taxes et versements assimilés:633000 Taxe foncière:633120 TAXE FONCIERE
+633121;63 Impôts - taxes et versements assimilés:633000 Taxe foncière:633121 TAXE ORDURES MENAGERES
+641110;64 Frais de personnel:641000 Salaires:641110 SALAIRES Gardiens
+641120;64 Frais de personnel:641000 Salaires:641120 SALAIRES Employés
+642110;64 Frais de personnel:642000 Charges sociales et organismes sociaux:642110 URSSAF Gardiens
+642210;64 Frais de personnel:642000 Charges sociales et organismes sociaux:642210 MUTUELLES Gardiens
+642310;64 Frais de personnel:642000 Charges sociales et organismes sociaux:642310 RETRAITE Gardiens
+642800;64 Frais de personnel:642000 Charges sociales et organismes sociaux:642800 REMPL GARDIENS
+642810;64 Frais de personnel:642000 Charges sociales et organismes sociaux:642810 AUTRES COTISATIONS Gardiens
+643100;64 Frais de personnel:643000 Taxe sur les salaires:643100 TAXE SUR LES SALAIRES
+643110;64 Frais de personnel:643000 Taxe sur les salaires:643110 TAXE / SALAIRES Gardiens
+644900;64 Frais de personnel:644000 Autres Médecine du travail Mutuelles:644900 AVANTAGE EN NATURE GARDIEN
+714100;71 Autres produits:714000 Produits divers:714100 PRODUITS DIVERS COURANTS
+716100;71 Autres produits:716000 Produits financiers:716100 PRODUITS FINANCIERS
